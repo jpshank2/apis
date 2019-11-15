@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+### In the server directory, you can run:
+
+### `nodemon index`
+
+Runs the Forum API in development mode.
+
+### In the client directory, you can run:
 
 ### `npm start`
 
